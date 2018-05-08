@@ -1,0 +1,10 @@
+- Tên: Nguyễn Trí Lợi
+- Ngày sinh: 15/05/1997
+- Trường: Học viện Công nghệ Bưu Chính Viễn Thông
+- Chuyên ngành ở trường: An toàn thông tin
+- Năm thứ: 3
+- Các ngôn ngữ đã học ở trường: C, C++, Java, PHP(đang học mà em không biết gì =))) )
+- HTML, CSS, JavaScript (JS). Em đã biết và học cái nào, học ở trường ra sao? -> Em mới tìm hiểu HTML, CSS và đang tim hiểu JS ạ.
+- Java, Spring MVC, Hibernate. Em đã biết và học cái nào, học ở trường ra sao?  -> C vs C+ em chỉ đc D đủ qua môn nhưng Java em đc B+ nên là động lực để em theo back-end java web đó ạ. :D
+- Ngày em dành mấy tiếng tự học lập trình? -> Ối em lười quá. Cũng lâu rồi không code. hic. Từ nay phải cố gắng thôi ạ. Còn đi kiếm tiền để đi tán gái nữa. :(
+- Nếu tự học, em đang học gì? -> Em đang vật mặt mấy môn mà em ko hứng thú trên trường :((
